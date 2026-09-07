@@ -11,9 +11,9 @@
       "status": "active"
     },
     {
-      "client": "Khách hàng Test 3 (Locked)",
+      "client": "Khách hàng Test 3 (Active)",
       "license_key": "mnbvcxz",
-      "status": "locked" 
+      "status": "Active" 
     }
   ]
 }
