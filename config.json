@@ -1,0 +1,19 @@
+{
+  "keys_management": [
+    {
+      "client": "knancyme (Active)",
+      "license_key": "mnbvcxz",
+      "status": "active"
+    },
+    {
+      "client": "Khách hàng Test 2 (Active)",
+      "license_key": "KEY-TEST-456-XYZ",
+      "status": "active"
+    },
+    {
+      "client": "Khách hàng Test 3 (Locked)",
+      "license_key": "KEY-DA-KHOA-789",
+      "status": "locked" 
+    }
+  ]
+}
