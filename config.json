@@ -1,8 +1,8 @@
 {
   "keys_management": [
     {
-      "client": "knancyme (Active)",
-      "license_key": "123",
+      "client": "Khách hàng Test 1 (Active)",
+      "license_key": "123bon",
       "status": "active"
     },
     {
@@ -13,6 +13,11 @@
     {
       "client": "Khách hàng Test 3 (Active)",
       "license_key": "mnbvcxz",
+      "status": "Active" 
+    },
+    {
+      "client": "Khách hàng Test 4 (Active)",
+      "license_key": "123",
       "status": "Active" 
     }
   ]
